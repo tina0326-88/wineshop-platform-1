@@ -211,16 +211,11 @@ wineshop-platform/
 
 ## 致謝
 
-## 圖片來源
+### 圖片來源
 
 - 本專案所有展示圖片皆來自 **Unsplash**，僅供作品展示與學習用途。
 - 圖片來源：https://unsplash.com/
 - 感謝 Unsplash 與所有攝影師提供高品質免費圖片。
-
-### 設計靈感
-
-- 參考現代電商網站設計趨勢
-- Material Design 設計語言
 
 ### 技術資源
 
@@ -228,6 +223,11 @@ wineshop-platform/
 - [Google Material Icons](https://fonts.google.com/icons) - 圖示系統
 - [Google Fonts](https://fonts.google.com/) - Noto Sans TC 字體
 - [MDN Web Docs](https://developer.mozilla.org/) - HTML、CSS、JavaScript 技術文件
+
+### 設計靈感
+
+- 參考現代電商網站設計趨勢
+- Material Design 設計語言
 
 ## 版權聲明
 
