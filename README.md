@@ -14,7 +14,7 @@
 
 ## 專案特色
 
-- 真實圖片素材：使用實際商品圖片提升視覺真實感
+- 高品質圖片素材：使用 Unsplash 免費授權圖片，提升品牌展示質感
 - Material Design Icons：Google Material Icons 提供專業圖示系統
 - 完整 RWD 設計：三種裝置尺寸完美適配
 - 純前端實現：無需後端，開箱即用
@@ -38,7 +38,7 @@
 - Git：版本控制
 - Vercel：網站部署
 
-## 專案結構
+## 專案架構
 
 ```
 wineshop-platform/
@@ -211,6 +211,12 @@ wineshop-platform/
 
 ## 致謝
 
+## 圖片來源
+
+- 本專案所有展示圖片皆來自 **Unsplash**，僅供作品展示與學習用途。
+- 圖片來源：https://unsplash.com/
+- 感謝 Unsplash 與所有攝影師提供高品質免費圖片。
+
 ### 設計靈感
 
 - 參考現代電商網站設計趨勢
@@ -218,9 +224,10 @@ wineshop-platform/
 
 ### 技術資源
 
+- [Unsplash](https://unsplash.com/) - 專案圖片素材來源
 - [Google Material Icons](https://fonts.google.com/icons) - 圖示系統
 - [Google Fonts](https://fonts.google.com/) - Noto Sans TC 字體
-- [MDN Web Docs](https://developer.mozilla.org/) - 技術文件
+- [MDN Web Docs](https://developer.mozilla.org/) - HTML、CSS、JavaScript 技術文件
 
 ## 版權聲明
 
